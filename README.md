@@ -4,8 +4,8 @@ Los Santos Cops and Robbers Bug reports
 
 Use the following bug report format or the bug report gets denied, and we will not review it.
 
-[Report your bug here:]([https://pages.github.com/](https://github.com/Los-Santos-cnr/CnrBugreports/issues/new/choose)).
-https://github.com/Los-Santos-cnr/CnrBugreports/issues/new/choose
+[Report your bug here:]([https://pages.github.com/]([https://github.com/Los-Santos-cnr/CnrBugreports/issues/new/choose](https://github.com/Los-Santos-cnr/CnrBugreports/issues/new?assignees=&labels=New&projects=&template=bug_report.md&title=%5BBUG%5D+%28NEW%29+-+Title))).
+[https://github.com/Los-Santos-cnr/CnrBugreports/issues/new/choose](https://github.com/Los-Santos-cnr/CnrBugreports/issues/new?assignees=&labels=New&projects=&template=bug_report.md&title=%5BBUG%5D+%28NEW%29+-+Title)
 
 
 Only use this category if:
